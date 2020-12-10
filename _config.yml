@@ -29,7 +29,7 @@ description: The evolutionary history of the mtatp6 gene
 navbar-links:
   Home: ""
   Resources:
-    - About: "getstarted"
+    - Project Outline: "getstarted"
     #- Other sites that use this template: "featured-users"
     #- External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
   #Example pages:
