@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: This Project is so Cool!
 ---
 
-This is my first post, how exciting!
+Wow, you guys deserve an A in this class!
