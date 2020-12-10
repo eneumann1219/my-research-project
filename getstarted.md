@@ -5,6 +5,9 @@ title: Project Outline
 bigimg: /img/mito-1014x487.jpg
 ---
 
+Abstract: This research project looks at the mtATP-6 gene in humans and compares them to other species to understand the evolution of this gene overtime. In humans, mutations in this gene are responsible for Leigh’s Syndrome and NARP and can be further understood by looking at the molecular evolution of the gene. With mitochondrial DNA data from multiple species in GenBank, we can discover the high levels of similarity of the mtATP-6 gene among species and observe the relatedness through a multiple sequence alignment and phylogenetic tree to see the limited evolution over time.
+
+
 Introduction: 
 
 -Our original interest was in mutations within the mtATP-6 gene and how these mutations lead to various disease states such as Leigh’s syndrome and NARP syndrome 
