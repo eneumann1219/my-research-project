@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: Project Outline
 #subtitle: How to use Beautiful Jekyll
-bigimg: mito-1014x487.jpg
+bigimg: /img/mito-1014x487.jpg
 ---
 
 Introduction: 
