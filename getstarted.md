@@ -2,7 +2,7 @@
 layout: page
 title: About
 #subtitle: How to use Beautiful Jekyll
-bigimg: /img/start.jpg
+bigimg: mito-1014x487.jpg
 ---
 
 Introduction: 
